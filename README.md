@@ -6,10 +6,9 @@ Now, imagine an AI tool that is a combination of proper data handling, LLM integ
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Introducing: Wordware.ai 🚀
+#### **Have you heard of **Wordware.ai? **🚀**
 
-**Have you heard of **Wordware.ai? **🚀**
-
+This tool brings all the essentials together to create seamless AI-driven experiences. 💬
 
 <img width="917" alt="Screenshot 2024-12-20 at 2 56 00 AM" src="https://github.com/user-attachments/assets/daeff5b7-bfb0-402e-ab31-dce417f7c52e" />
 
