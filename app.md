@@ -86,6 +86,8 @@ Currently, I am trying to improve it with the new features. So, this is a simple
 
 Go ahead, give it a shot, and enjoy creating something awesome. I’m excited to hear how it turns out!
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 * **Application:**
 
 https://app.wordware.ai/explore/apps/6a3ab4be-74e2-4ffe-8148-a7bfe0d8187a
