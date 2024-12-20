@@ -10,7 +10,7 @@ Now, imagine an AI tool that is a combination of proper data handling, LLM integ
 
 This tool brings all the essentials together to create seamless AI-driven experiences. 💬
 
-<img width="917" alt="Screenshot 2024-12-20 at 2 56 00 AM" src="https://github.com/user-attachments/assets/daeff5b7-bfb0-402e-ab31-dce417f7c52e" />
+<img width="918" alt="Screenshot 2024-12-20 at 4 30 12 AM" src="https://github.com/user-attachments/assets/57719389-b55e-4ef3-957b-09729af167fd" />
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
